@@ -76,6 +76,7 @@ workflows:
               only:
                 - dev
                 - challenge-listing-part-2
+                - feat/profile-app-routes
 
       # Production builds are exectuted only on tagged commits to the
       # master branch.
